@@ -1,5 +1,19 @@
 ### Why Fork?
 To switch to v6
+### result (exe at 2025-07-17)
+#### succeed?
+before(INSANE!!!:O_O:) 
+```swift
+Path: easy -> easy -> easy -> easy -> easy
+        0日 -> +289.0日 -> +2078.0日 -> +12663.0日 -> +36500.0日
+        -> Final State: S: 62591.37, D: 1.00, nextReview: 2166-09-22 09:20
+```
+after
+```swift
+Path: easy -> easy -> easy -> easy -> easy
+        0日 -> +35.0日 -> +96.0日 -> +237.0日 -> +536.0日
+        -> Final State: S: 536.19, D: 1.00, nextReview: 2028-01-20 11:29
+```
 # SwiftFSRS
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2F4rays%2Fswift-fsrs%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/4rays/swift-fsrs) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2F4rays%2Fswift-fsrs%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/4rays/swift-fsrs)
