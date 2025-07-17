@@ -32,7 +32,7 @@ public struct FSRSAlgorithm: Codable, Hashable, Sendable {
         factor: 19 / 81,
         requestRetention: 0.9,
         maximumInterval: 36500,
-        parameters: v5Params
+        parameters: v6Params
     )
     
     func initialStability(_ rating: Rating) -> Double {
